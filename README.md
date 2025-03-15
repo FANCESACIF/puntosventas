@@ -1,4 +1,4 @@
-# FANCESA Puntos de Venta
+# FANCESA Puntos de Venta 
 
 ## Descripción
 Esta aplicación web permite visualizar y comparar la distribución geográfica de los puntos de venta de FANCESA (Fábrica Nacional de Cemento S.A.), diferenciando entre agencias existentes y nuevas propuestas. La herramienta facilita la toma de decisiones para la expansión de la red de distribución mediante georeferenciación.
@@ -61,3 +61,5 @@ Para contribuir a este proyecto, por favor:
 3. Realice sus cambios y haga commit (`git commit -am 'Añadir nueva funcionalidad'`)
 4. Envíe los cambios a su fork (`git push origin feature/nueva-funcionalidad`)
 5. Cree un Pull Request
+
+2025
