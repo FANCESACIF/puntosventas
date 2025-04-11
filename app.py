@@ -15,7 +15,7 @@ image = Image.open('logo.png')
 st.sidebar.image(image, width=150)
 
 st.title("Mapa Comparativo de Agencias FANCESA")
-
+st.text(" Datos actualizados al 11/04/2025")
     
 # Agregar una línea divisoria
 st.markdown("---")
